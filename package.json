@@ -1,0 +1,26 @@
+{
+  "name": "cse341-w03-class1",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/DaviVale/cse341-w03-class1#readme",
+  "bugs": {
+    "url": "https://github.com/DaviVale/cse341-w03-class1/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaviVale/cse341-w03-class1.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "mongodb": "^7.6.0",
+    "swagger-ui-express": "^5.0.1"
+  }
+}
