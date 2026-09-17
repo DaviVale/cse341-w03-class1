@@ -5,11 +5,10 @@
     "description": "Simple API for practicing Swagger documentation",
     "version": "1.0.0"
   },
-  "host": "localhost:8080",
-  "basePath": "/",
+  "host": "cse341-w03-class1.onrender.com",
   "schemes": [
-    "http"
-  ],
+  "https"
+],
   "paths": {
     "/": {
       "get": {
